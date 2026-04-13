@@ -1,16 +1,18 @@
-## Hi there 👋
+My name is Marcus Reyes. I am currently attending Seattle Pacific University and focusing on a BS degree in Computer Science.
 
-<!--
-**reyesm7/reyesm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education & Awards:
+  Granger High School - Granger, WA
+  Microsoft Word Certification - Granger High School | August 2021-2022
+  Microsoft Power Point Certification - Granger High School | August 2021-2022
+  CAD Certification - Granger High School | August 2022-2023
 
-Here are some ideas to get you started:
+Skills:
+  I enjoy developing and improving my skills such as, coding, modeling, UI-designing, texturing, editing, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software & Applications:
+  CLion
+  Visual Code Studio
+  Github Desktop
+  Filmora
+  Blender
+  Autodesk
